@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "ef28",
+      "nombre": "Carlos Alfredo",
+      "empresa": "Mi EMP",
+      "email": "alfredomontoyacorreo2@gmail.com",
+      "telefono": "3246838735",
+      "notas": "hola"
+    }
+  ]
+}
