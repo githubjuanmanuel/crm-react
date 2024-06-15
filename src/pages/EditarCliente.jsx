@@ -1,7 +1,7 @@
 import { obtenerCliente, actualizarClientes } from "../data/clientes";
-import Formulario from "../components/Formulario";
+import Formulario from "../Components/Formulario";
 import { Form, useNavigate, useLoaderData, useActionData, redirect } from "react-router-dom";
-import Error from "../components/Error";
+import Error from "../Components/Error";
 
 
 export async function loader({ params }) {
