@@ -20,14 +20,6 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": "ef28",
-      "nombre": "Carlos Alfredo",
-      "empresa": "Mi EMP",
-      "email": "alfredomontoyacorreo2@gmail.com",
-      "telefono": "3246838735",
-      "notas": "hola"
     }
   ]
 }
